@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/study-app/static/css/main.086c9682.css",
+    "main.js": "/study-app/static/js/main.59afb2c8.js",
+    "static/media/oxford.png": "/study-app/static/media/oxford.efc112ca4e8093cd6b18.png",
+    "index.html": "/study-app/index.html",
+    "main.086c9682.css.map": "/study-app/static/css/main.086c9682.css.map",
+    "main.59afb2c8.js.map": "/study-app/static/js/main.59afb2c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086c9682.css",
+    "static/js/main.59afb2c8.js"
+  ]
+}
