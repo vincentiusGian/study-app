@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/study-app/static/css/main.086c9682.css",
-    "main.js": "/study-app/static/js/main.59afb2c8.js",
+    "main.css": "/study-app/static/css/main.de6c2733.css",
+    "main.js": "/study-app/static/js/main.3e9c3da3.js",
     "static/media/oxford.png": "/study-app/static/media/oxford.efc112ca4e8093cd6b18.png",
     "index.html": "/study-app/index.html",
-    "main.086c9682.css.map": "/study-app/static/css/main.086c9682.css.map",
-    "main.59afb2c8.js.map": "/study-app/static/js/main.59afb2c8.js.map"
+    "main.de6c2733.css.map": "/study-app/static/css/main.de6c2733.css.map",
+    "main.3e9c3da3.js.map": "/study-app/static/js/main.3e9c3da3.js.map"
   },
   "entrypoints": [
-    "static/css/main.086c9682.css",
-    "static/js/main.59afb2c8.js"
+    "static/css/main.de6c2733.css",
+    "static/js/main.3e9c3da3.js"
   ]
 }
