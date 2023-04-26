@@ -60,8 +60,8 @@ export default function Timer() {
                 {toggleStart ? <h1>{timerMinutes}:{timerSeconds}</h1> : <h1>25:00</h1> }
             </div>
             <div className="flex justify-center space-x-4">
-            <a className="btn glass rounded-full" onClick={toggleStart}>{!isActive ? 'start' : 'pause'}</a>
-            <a className="btn glass rounded-full" onClick={breakTime}>{!displayMsg ? 'start break' : 'end break'}</a>
+            <a className="btn glass rounded-full dark:text-white" onClick={toggleStart}>{!isActive ? 'start' : 'pause'}</a>
+            <a className="btn glass rounded-full dark:text-white" onClick={breakTime}>{!displayMsg ? 'start break' : 'end break'}</a>
             </div>
             <div className="chat chat-end absolute inset-x-0 bottom-7">
   <div className="chat-bubble chat-bubble-secondary">Pause first before you start or end breaks.</div>
