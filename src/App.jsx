@@ -1,6 +1,5 @@
 import Header from './components/Navbar';
 import Timer from './components/Timer'
-import Song from './components/Songg';
 
 function App() {
   return (
