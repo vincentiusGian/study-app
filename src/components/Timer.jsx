@@ -52,7 +52,8 @@ export default function Timer() {
   <div className="chat-bubble chat-bubble-secondary">Pause first before you start or end breaks.</div>
 </div>
         </div>
+        
+<iframe id="spotify" width="80%" height="80" frameborder="0" allowfullscreen="" data-src="https://open.spotify.com/embed/playlist/4Zjli1P13J5mmSCD5iKAXK?theme=0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/album/05WYfOdYRlapM87Fy9r2rs?utm_source=generator"></iframe>
     )
 }
 
-<iframe id="spotify" width="80%" height="80" frameborder="0" allowfullscreen="" data-src="https://open.spotify.com/embed/playlist/4Zjli1P13J5mmSCD5iKAXK?theme=0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" src="https://open.spotify.com/embed/album/05WYfOdYRlapM87Fy9r2rs?utm_source=generator"></iframe>
